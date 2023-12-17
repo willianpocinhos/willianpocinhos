@@ -25,7 +25,7 @@
 ✅ Team work
 <br>
 ✅ Experience with Graphic Design (Adobe Photoshop, Adobe Illustrator)
-<br>
+<br><br>
 <img src='https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black'><img src='https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white'>
 <br>
 <br>
