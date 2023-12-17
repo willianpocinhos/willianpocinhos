@@ -1,14 +1,33 @@
 ### Hi there! I'm Willian! 👋
 <br>
-I recently graduated in Systems Analysis and Development and continue my studies to acquire more knowledge.
-
-I'm a FRONT-END DEVELOPER and I've already had contact with HTML, CSS, Bootstrap, Ionic and I'm currently studying JS and React.
+🙂 I'm 35 years old, married, have 4 children and currently live in Balneário Barra do Sul - Brazil.
+<br>
+<br>
+🧑🏽‍🎓 I recently graduated in Systems Analysis and Development (2023-oct) from the Catholic University of Santa Catarina - Joinville.
+<br>
+<br>
+👨🏽‍💻 I am in a career transition to the Information Technology area and continue my studies at the educational institution DevClub, where my goal is to acquire more knowledge and broaden my horizons with new technologies and connections with people. I have Front-End knowledge in HTML, CSS, JavaScript, Bootstrap and I continue studying and learning more technologies to soon become a Full-stack Developer, being able to contribute more broadly to project development.
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<br><br>
+<br>
+<br>
+🪄 Among my skills, I highlight:
+<br>
+✅
+<br>
+✅
+<br>
+✅
+<br>
+✅
+<br>
+✅
+<br>
+✅
+
 <img src='https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black'> <img src='https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white'>
 
-Soon I will learn about back-end tools to improve my skills.
+
 <br>
 <br>
 <br>
