@@ -9,7 +9,7 @@
 👨🏽‍💻 I'm in a career transition to the Information Technology area and continue my studies at the educational institution DevClub, where my goal is to acquire more knowledge and broaden my horizons with new technologies and connections with people. I have Front-End knowledge in HTML, CSS, JavaScript, Bootstrap and I continue studying and learning more technologies to soon become a Full-stack Developer, being able to contribute more broadly to projects development.
 <br>
 <br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 <br>
 <br>
