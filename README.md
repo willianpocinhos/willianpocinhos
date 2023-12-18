@@ -1,11 +1,11 @@
 <h1>Hi there! I'm Willian! 👋</h1>
-<br>
 <div>
   <p>🙂 I'm 35 years old, married, have 4 children and currently live in Balneário Barra do Sul city, Brazil.<br>
     🧑🏽‍🎓 I recently graduated in Systems Analysis and Development (2023-oct) from the Catholic University of Santa Catarina - Joinville.<br>
     👨🏽‍💻 I'm in a career transition to the Information Technology area and continue my studies at the educational institution DevClub, where my goal is to acquire more knowledge and broaden my horizons with new technologies and connections with people. I have Front-End knowledge in HTML, CSS, JavaScript, Bootstrap and I continue studying and learning more technologies to soon become a Full-stack Developer, being able to contribute more broadly to projects development.
   </p>
 </div>
+<br>
 
 <div>
   <h2>💻 Technologies:</h2>
@@ -17,6 +17,7 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt='react-badge'>
   </div>
 </div>
+<br>
 
 <div>
   <h2>🪄 Skills:</h2>
@@ -34,12 +35,11 @@
     ✅ Experience with Graphic Design (Adobe Photoshop, Adobe Illustrator)
   </p>
   <br>
-  <br>
   <img src='https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black' alt='photoshop-badge'>
   <img src='https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white' alt='illustrator-badge'>
 </div>
 <br>
-<br>
+
 <div>
   <h2>📫 How to reach me:</h2>
   <a href="https://www.linkedin.com/in/willian-p-santos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt='linkedin-logo'></a>
