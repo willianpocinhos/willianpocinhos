@@ -1,7 +1,11 @@
 <h1>Hi there! I'm Willian! 👋</h1>
 <div>
-  <p>🙂 I'm 35 years old, married, have 4 children and currently live in Balneário Barra do Sul city, Brazil.<br>
-    🧑🏽‍🎓 I recently graduated in Systems Analysis and Development (2023-oct) from the Catholic University of Santa Catarina - Joinville.<br>
+  <p>🙂 I'm 35 years old, married, have 4 children and currently live in Balneário Barra do Sul city, Brazil.
+    <br>
+    <br>
+    🧑🏽‍🎓 I recently graduated in Systems Analysis and Development (2023-oct) from the Catholic University of Santa Catarina - Joinville.
+    <br>
+    <br>
     👨🏽‍💻 I'm in a career transition to the Information Technology area and continue my studies at the educational institution DevClub, where my goal is to acquire more knowledge and broaden my horizons with new technologies and connections with people. I have Front-End knowledge in HTML, CSS, JavaScript, Bootstrap and I continue studying and learning more technologies to soon become a Full-stack Developer, being able to contribute more broadly to projects development.
   </p>
 </div>
