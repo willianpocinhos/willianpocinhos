@@ -1,18 +1,19 @@
-<h1>Hi, there! I'm Willian! 👋</h1>
+<h1>Sobre</h1>
 <div>
-  <p>🙂 I'm 36 years old, married, have 4 children and currently live in Balneário Barra do Sul city, Brazil.
+  <p>
+    Desenvolvedor Front-End em transição da logística para o mundo de Desenvolvimento Web. Conhecimento em HTML, CSS, JavaScript, Bootstrap e atualmente estudando NodeJs e React, tendo como objetivo o constante aprimoramento das capacidades para seguir as últimas tendências tecnológicas. Destaca-se por projetos bem elaborados, incluindo um clone do Spotify, um site     para um restaurante de massas, um conversor de moedas em tempo real e outros.
     <br>
     <br>
-    🧑🏽‍🎓 I recently graduated in Systems Analysis and Development (oct-2023) from the Catholic University of Santa Catarina - Joinville.
+    Formado em Análise e Desenvolvimento de Sistemas pela Universidade Católica de Santa Catarina, busca evoluir continuamente e está atualmente cursando a Formação FullStack PRO no Dev Club. Possui inglês avançado e está pronto para impulsionar projetos web com criatividade e habilidade técnica.
     <br>
     <br>
-    👨🏽‍💻 I'm in a career transition to the Information Technology area and continue my studies at the educational institution DevClub, where my goal is to acquire more knowledge and broaden my horizons with new technologies and connections with people. I have Front-End knowledge in HTML, CSS, JavaScript, Bootstrap and I continue studying and learning more technologies to soon become a Full-stack Developer, being able to contribute more broadly to projects development.
+    Possui vivência internacional no Japão por 10 anos (2009 – 2019), atuando no setor industrial em empresas renomadas como Sony, Muratec e Toyota. Nos últimos 3 anos, no Brasil, desempenhou funções administrativas do setor logístico de veículos da marca BMW. 
   </p>
 </div>
 <br>
 
 <div>
-  <h2>💻 Technologies:</h2>
+  <h2>💻 Tecnologias:</h2>
   <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt='html-badge'>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt='css-badge'>
@@ -24,19 +25,23 @@
 <br>
 
 <div>
-  <h2>🪄 Skills:</h2>
+  <h2>🪄 Habilidades:</h2>
   <p>
-    ✅ Advanced English
+    ✅ Inglês Avançado
     <br>
-    ✅ Organization
+    ✅ Organização
     <br>
-    ✅ Fast learning
+    ✅ Raciocínio Lógico
     <br>
-    ✅ Creativity
+    ✅ Pensamento Crítico
     <br>
-    ✅ Team work
+    ✅ Rápido Aprendizado
     <br>
-    ✅ Experience with Graphic Design (Adobe Photoshop, Adobe Illustrator)
+    ✅ Criativiade
+    <br>
+    ✅ Experiência com Design Gráfico (Adobe Photoshop, Adobe Illustrator)
+    <br>
+    ✅ Trabalho em equipe
   </p>
   <br>
   <img src='https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black' alt='photoshop-badge'>
@@ -45,7 +50,7 @@
 <br>
 
 <div>
-  <h2>📫 How to reach me:</h2>
+  <h2>Caso deseje entrar em contato comigo: 👇🏽</h2>
   <a href="https://www.linkedin.com/in/willian-p-santos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt='linkedin-logo'></a>
   <a href="https://www.instagram.com/willian_pocinhos/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt='instagram-logo'></a>
   <br>
