@@ -1,7 +1,7 @@
 <h1>Sobre</h1>
 <div>
   <p>
-    Desenvolvedor Front-End em transição da logística para o mundo de Desenvolvimento Web. Conhecimento em HTML, CSS, JavaScript, Bootstrap e atualmente estudando NodeJs e React, tendo como objetivo o constante aprimoramento das capacidades para seguir as últimas tendências tecnológicas. Destaca-se por projetos bem elaborados, incluindo um clone do Spotify, um site     para um restaurante de massas, um conversor de moedas em tempo real e outros.
+    Desenvolvedor Front-End em transição da logística para o mundo de Desenvolvimento Web. Conhecimento em HTML, CSS, JavaScript, Bootstrap, Node.js, MySQL e atualmente estudando React.js, tendo como objetivo o constante aprimoramento das capacidades para seguir as últimas tendências tecnológicas. Destaca-se por projetos bem elaborados, incluindo um clone do Spotify, um site     para um restaurante de massas, um conversor de moedas em tempo real e outros.
     <br>
     <br>
     Formado em Análise e Desenvolvimento de Sistemas pela Universidade Católica de Santa Catarina, busca evoluir continuamente e está atualmente cursando a Formação FullStack PRO no Dev Club. Possui inglês avançado e está pronto para impulsionar projetos web com criatividade e habilidade técnica.
